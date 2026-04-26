@@ -14,16 +14,6 @@ Projekt front-endowy odwzorowujący wyszukiwarkę Google: Google Search, Google 
 
 ---
 
-## 🧠 Czego się nauczyłem
-
-- działania formularzy HTML i metody GET
-- pracy z parametrami URL (query string)
-- budowy wielostronicowych aplikacji statycznych
-- podstaw CSS i tworzenia layoutu
-- sposobu działania wyszukiwarek internetowych
-
----
-
 ## 🛠️ Technologie
 
 - HTML
