@@ -53,6 +53,4 @@ https://www.google.com/search?q=harvard
 
 ---
 
-## 📚 Kurs
 
-Harvard CS50 – Web Programming with Python and JavaScript
