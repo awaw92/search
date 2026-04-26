@@ -1,6 +1,5 @@
 Projekt front-endowy odwzorowujący wyszukiwarkę Google: Google Search, Google Image Search oraz Google Advanced Search. 
 
-Celem projektu było zrozumienie działania formularzy HTML oraz przesyłania danych za pomocą metod GET i parametrów URL.
 
 ---
 
