@@ -1,3 +1,5 @@
+# Google Search Front-End
+
 Projekt front-endowy odwzorowujący wyszukiwarkę Google: Google Search, Google Image Search oraz Google Advanced Search. 
 
 
