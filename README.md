@@ -1,4 +1,4 @@
-Projekt front-endowy odwzorowujący wyszukiwarkę Google: Google Search, Google Image Search oraz Google Advanced Search. Został wykonany w ramach kursu Harvard CS50 Web Programming with Python and JavaScript.
+Projekt front-endowy odwzorowujący wyszukiwarkę Google: Google Search, Google Image Search oraz Google Advanced Search. 
 
 Celem projektu było zrozumienie działania formularzy HTML oraz przesyłania danych za pomocą metod GET i parametrów URL.
 
@@ -48,7 +48,7 @@ Formularze wysyłają zapytania bezpośrednio do Google poprzez URL:
 
 Przykład:
 
-https://www.google.com/search?q=harvard
+https://www.google.com/search?q=car
 
 
 ---
